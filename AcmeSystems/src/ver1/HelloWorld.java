@@ -8,8 +8,8 @@ public class HelloWorld {
 	}
 	
 	public static void heyNow() {
-		String msg = "Hey Now!";
-		System.out.println(msg);
+		String Msg = "Hey Now!";
+		System.out.println(Msg);
 	}
 
 }
