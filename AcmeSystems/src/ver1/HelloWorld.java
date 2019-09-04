@@ -6,5 +6,10 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 		System.out.println("Hello from Eclipse");
 	}
+	
+	public static void heyNow() {
+		String msg = "Hey Now!";
+		System.out.println(msg);
+	}
 
 }
